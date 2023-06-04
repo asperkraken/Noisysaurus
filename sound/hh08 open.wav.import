@@ -1,0 +1,23 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/hh08 open.wav-96a3eff0ef1542d9927b9e1c76e85a00.sample"
+
+[deps]
+
+source_file="res://sound/hh08 open.wav"
+dest_files=[ "res://.import/hh08 open.wav-96a3eff0ef1542d9927b9e1c76e85a00.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0
